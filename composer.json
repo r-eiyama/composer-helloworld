@@ -1,0 +1,13 @@
+{
+    "name": "r-eiyama/hello-world-composer",
+    "description": "Hello Composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "REiyama\\HelloWorldComposer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
