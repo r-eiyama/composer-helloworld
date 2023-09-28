@@ -1,0 +1,15 @@
+{
+    "name": "r-eiyama/composer-sample",
+    "autoload": {
+        "psr-4": {
+            "REiyama\\ComposerSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "r-eiyama",
+            "email": "r-eiyama@macloud.jp"
+        }
+    ],
+    "require": {}
+}
